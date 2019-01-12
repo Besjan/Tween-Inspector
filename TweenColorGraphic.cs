@@ -1,4 +1,4 @@
-﻿namespace BeeX.Tween
+﻿namespace Cuku.Tween
 {
     using UnityEngine;
     using UnityEngine.UI;
